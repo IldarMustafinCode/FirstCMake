@@ -1,0 +1,3 @@
+C:/Users/User/Desktop/my VS Codes/FirstCMake/build/CMakeFiles/firstCM.dir
+C:/Users/User/Desktop/my VS Codes/FirstCMake/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/User/Desktop/my VS Codes/FirstCMake/build/CMakeFiles/ZERO_CHECK.dir
